@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canvas-student-engagement/static/css/main.aeccdb8c.css",
+    "main.js": "/canvas-student-engagement/static/js/main.c145c31e.js",
+    "static/js/453.0a5dbdd5.chunk.js": "/canvas-student-engagement/static/js/453.0a5dbdd5.chunk.js",
+    "index.html": "/canvas-student-engagement/index.html",
+    "main.aeccdb8c.css.map": "/canvas-student-engagement/static/css/main.aeccdb8c.css.map",
+    "main.c145c31e.js.map": "/canvas-student-engagement/static/js/main.c145c31e.js.map",
+    "453.0a5dbdd5.chunk.js.map": "/canvas-student-engagement/static/js/453.0a5dbdd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeccdb8c.css",
+    "static/js/main.c145c31e.js"
+  ]
+}
