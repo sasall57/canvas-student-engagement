@@ -1,0 +1,13 @@
+.legend-stacked {
+    font-size: 0.8rem;
+}
+
+.legend-stacked .legend-text {
+    font-size: 0.8rem;
+    fill: #333333;
+}
+
+.bar {
+    transition: opacity 0.2s ease;
+    cursor: pointer;
+}

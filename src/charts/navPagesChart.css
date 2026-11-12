@@ -1,0 +1,12 @@
+.bar {
+    transition: opacity 0.2s ease;
+    cursor: pointer;
+}
+
+.value-label {
+    font-weight: 500;
+}
+
+.bar-hit {
+    cursor: pointer;
+}

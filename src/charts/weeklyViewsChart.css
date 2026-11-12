@@ -1,0 +1,23 @@
+.point {
+    cursor: pointer;
+    transition: r 0.15s ease;
+}
+
+.line {
+    stroke-linejoin: round;
+    stroke-linecap: round;
+}
+
+.grid line {
+    stroke: #e5e8eb;
+    stroke-opacity: 0.9;
+}
+
+.grid .domain {
+    display: none;
+}
+
+.legend-line .legend-text {
+    font-size: 0.8rem;
+    fill: #333333;
+}
